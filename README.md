@@ -33,7 +33,7 @@ After you read the [License](LICENSE), Here are the instructions depending on wh
 
 1. Download the latest version of **Git** [here](https://git-scm.com/downloads) that is supported for your OS.
 2. Follow the installation instructions.
-3. After Git is downloaded, you are ready to continue.
+3. After **Git** is downloaded and added to PATH, you are ready to continue.
 4. Create a folder for all of your icons & images, eg. "Bloxd.io Icons".
 5. Open your computer's terminal or command line.
 6. In the terminal or command line, navigate to the location of your folder.
@@ -41,3 +41,24 @@ After you read the [License](LICENSE), Here are the instructions depending on wh
 8. Run it by pressing <kbd>Enter</kbd>.
 9. Wait for it to complete.
 10. And boom, you have the complete directory of Bloxd.io's icons and images!
+
+I also instructions for potato computers or if you don't want to install anything.
+
+If you have a faster computer, I recommend using **Git** for speed and efficiency. It is also okay if you don't want to install anything, but it is not that efficient to do.
+
+I can also understand if you have a potato computer that can't handle the installation of **Git**. But I don't really know how your computer can run Bloxd if it is that slow... /:
+
+Anyway, here is the instructions for the other way:
+
+1. Look for the "Code" button near the top right of the file list.
+2. Click it and a dropdown should appear.
+3. Click the "Download ZIP" button. The download should start shortly.
+4. Once the download is done, look for the downloaded file.
+5. Extract the ZIP to the location you want the pack to be in, eg. Bloxd.io Icons.
+6. Once the operation completes, you are done!
+
+## 3. Licensing
+
+The license is found [here](LICENSE).
+
+© Bloxd.io Icons by Pillagerplayz - 2025
